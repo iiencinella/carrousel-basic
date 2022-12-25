@@ -1,0 +1,11 @@
+{
+  "name": "carrousel-basic",
+  "version": "0.0.1-alpha",
+  "description": "Plantilla para desarrollar un carrusel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iván Ezequiel Iencinella",
+  "license": "ISC"
+}
